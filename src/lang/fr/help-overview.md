@@ -4,7 +4,7 @@ Chorus est une interface web pour contrôler [Kodi](http://kodi.tv). Il est héb
 installation de Kodi, ainsi n'importe quel appareil pouvant faire marcher Kodi ne devrait pas avoir
 de problème avec Chorus.
 
-Avec une interface web vous pourriez si vous le voulez contrôler un lecteur Kodi de l'autre côté de la planête.
+Avec une interface web vous pourriez si vous le voulez contrôler un lecteur Kodi du bout du monde.
 Mais plus probablement vous allez contrôler un lecteur Kodi sur votre réseau local à la maison ou au bureau.
 
 ### Qui a fait cette chose?
